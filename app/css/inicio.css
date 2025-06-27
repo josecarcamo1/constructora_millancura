@@ -1,0 +1,12 @@
+body{
+    background-color: #303030;
+}
+
+.btn-neon{
+    background-color:#585858;
+}
+
+.btn-neon:hover {
+    background-color: #474747;
+    color: white;
+}

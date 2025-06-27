@@ -1,0 +1,34 @@
+cosas que tengo que hacer
+
+login - listo
+
+listado de personas - mas o menos
+
+crear personas - mas o menos
+
+editar personas - mas o menos
+
+eliminar personas -  mas o menos
+
+listado de base de datos - nada
+
+dashboard - nada
+
+capturar datos de la camara
+
+crear base de datos -  mas o menos
+
+
+------------------------------------------------------------------------------------
+
+tengo que colocar las alertas cada vez que guarde algo 
+
+tengo que arreglar la wea fea que se ve en el listado de personas creo
+
+tengo que ver que se vea bien en un notebook
+
+los botones podria hacerlos mas transparentes - idea
+
+crear listado de base de datos
+
+hablar del dashboard

@@ -1,0 +1,63 @@
+/***********************Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@500&display=swap');
+
+/***********************Variables/*/
+
+:root {
+  --color1: #3a3b3d;
+  --color2: #eeeff1;
+  --color3: #b2bfc2;
+  --color4: #909DA1;
+  --color5: #c9c9c9;
+}
+
+/********************************Responsivo*/
+@media screen and (max-width: 600px) {
+  .hide-mobile {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+  }
+
+  .show-mobile {
+      display: block;
+  }
+}
+
+/***********************General*/
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 70px;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;    
+}
+
+.navbar{
+  background-color: var(--color1);
+}
+
+/*Edición y guardado*/
+form.lectura .btn-save {
+  display: none;
+}
+
+form.lectura input[disabled], 
+form.lectura textarea[disabled],
+form.lectura select[disabled] 
+{
+  cursor: text;    
+}
+
+form.editar .btn-edit {
+  display: none;
+}
+
+form.lectura .btn-edit {
+  display: block;
+}

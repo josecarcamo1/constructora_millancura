@@ -1,0 +1,10 @@
+[26-Oct-2024 17:08:07 CST6CDT] PHP Warning:  Undefined array key "acceso" in /home/customer/www/agenciaimola.cl/public_html/api/clases/sesiones.php on line 12
+[26-Oct-2024 17:08:42 CST6CDT] PHP Warning:  Undefined array key "acceso" in /home/customer/www/agenciaimola.cl/public_html/api/clases/sesiones.php on line 12
+[26-Oct-2024 17:18:38 CST6CDT] PHP Warning:  Undefined array key "acceso" in /home/customer/www/agenciaimola.cl/public_html/api/clases/sesiones.php on line 12
+[26-Oct-2024 17:59:07 CST6CDT] PHP Warning:  Undefined array key "acceso" in /home/customer/www/agenciaimola.cl/public_html/api/clases/sesiones.php on line 12
+[26-Oct-2024 18:01:25 CST6CDT] PHP Warning:  Undefined array key "acceso" in /home/customer/www/agenciaimola.cl/public_html/api/clases/sesiones.php on line 12
+[26-Oct-2024 18:02:24 CST6CDT] PHP Warning:  Undefined array key "acceso" in /home/customer/www/agenciaimola.cl/public_html/api/clases/sesiones.php on line 12
+[26-Oct-2024 18:28:51 CST6CDT] Error: Failed to regenerate session ID.
+[26-Oct-2024 18:29:05 CST6CDT] Error: Failed to regenerate session ID.
+[26-Oct-2024 18:29:28 CST6CDT] Error: Failed to regenerate session ID.
+[28-Oct-2024 08:17:18 CST6CDT] PHP Warning:  Undefined array key "cliente" in /home/customer/www/agenciaimola.cl/public_html/api/clases/proyectos.php on line 79
